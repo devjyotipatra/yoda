@@ -1,0 +1,10 @@
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/SemanticAnalyzer.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/SemanticAnalyzerFactory.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/TenaliHiveParser.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/datamodel/TenaliASTNode.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/datamodel/QueryBlock.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/QuickTests.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/utility/exception/TenaliSemanticException.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/NoopAnalyzer.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/datamodel/QueryBlockParseInfo.java
+/Users/devjyotip/Krow/java/yoda/parse/src/main/java/com/qubole/yoda/tenali/TenaliParserUtilities.java
